@@ -1,0 +1,19 @@
+{
+  "name": "elm-leader-line",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leader-line": "^1.0.5",
+    "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {
+    "elm-hot": "^1.1.2",
+    "node-elm-compiler": "^5.0.4"
+  }
+}
